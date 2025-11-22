@@ -20,6 +20,16 @@
       "item_id": 1333,
       "amount": 10
     },
+	{
+      "_comment": "PLANK_960",
+      "item_id": 960,
+      "amount": 100
+    },
+	{
+      "_comment": "STEEL_NAILS_1539",
+      "item_id": 1539,
+      "amount": 100
+    },
     {
       "_comment": "COAL_453",
       "item_id": 453,
