@@ -108,8 +108,8 @@ Singleplayer/
 ```
 
 > [!IMPORTANT]
-> Use **simple installation paths** to avoid file permission issues.
-> Keep a **backup of original configs** before modifying.
+> - Use **simple installation paths** to avoid file permission issues.
+> - Keep a **backup of original configs** before modifying.
 
 ---
 
