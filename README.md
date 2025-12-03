@@ -11,6 +11,7 @@ It allows you to play without connecting to any online servers. Ideal for **modd
 - **Default world data** – a working world with standard NPCs, skills, and economy.
 - **Optional plugins** – client and server enhancements to extend gameplay.
 - **Offline mode** – no internet connection required after initial setup.
+- **Editor-530** – modify items, NPCs, and objects to customize the game.
 
 ---
 
