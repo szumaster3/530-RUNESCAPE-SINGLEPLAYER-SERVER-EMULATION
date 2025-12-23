@@ -54,10 +54,6 @@ It allows you to play without connecting to any online servers. Ideal for **modd
 - **Main config file:** `game/worldprops/default.conf`
   > After saving changes, **restart the server** for changes to take effect.
 
-- **Experience rate:**
-    - Default: `exp_multiplier = 1.0x`
-    - Change per-player: `data/players/<your_username>.json` → modify `exp_multiplier`
-
 - **Grand Exchange autostock:**
     - Default items added on server start are located in:  
       `game/data/eco/ge_autostock.json`
@@ -123,4 +119,4 @@ Singleplayer/
 
 ### Aditional information
 
-- Base forked from <a href="https://gitlab.com/2009scape/singleplayer/windows">2009Scape</a>.
+- Fork of <a href="https://gitlab.com/2009scape/singleplayer/windows">2009Scape</a>.
